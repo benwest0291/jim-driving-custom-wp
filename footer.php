@@ -11,7 +11,7 @@ $phone = get_theme_mod('contact_telephone');
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-md-6 col-lg-3">
                 <?php if ($logo != null) { ?>
                     <a title="Dawn driving homepage" href="<?php echo site_url("/") ?>"><img class="footer__logo mt-1 mt-md-2" src="<?php echo $logo['url']; ?>" alt="<?php echo get_bloginfo("name"); ?>"></a>
                 <?php } ?>
@@ -37,7 +37,7 @@ $phone = get_theme_mod('contact_telephone');
                 </div>
             </div>
 
-            <div class="col-12 col-md-3">
+            <div class="col-12 col-md-6 col-lg-3">
                 <h4 class="footer__heading">CONTACT</h4>
                 <div class="d-flex mt-md-3 mr-2">
                     <?php if ($phone != null) { ?>
@@ -53,7 +53,7 @@ $phone = get_theme_mod('contact_telephone');
                 </div>
             </div>
 
-            <div class="col-12 col-md-3">
+            <div class="col-12 col-md-6 col-lg-3">
                 <h4 class="footer__heading">SUPERSTARS</h4>
                 <ul class="list-unstyled mt-4">
                     <?php
@@ -76,7 +76,7 @@ $phone = get_theme_mod('contact_telephone');
                 </ul>
             </div>
 
-            <div class="col-12 col-md-2">
+            <div class="col-12 col-md-6 col-lg-3">
                 <h4 class="footer__heading">NEWS</h4>
                 <ul class="list-unstyled mt-4">
                     <?php
@@ -103,7 +103,7 @@ $phone = get_theme_mod('contact_telephone');
         <hr class="footer__hr">
         <div class="row footer__base">
             <div class="col-12 col-md-6">
-                <p class="text-center">Copyright <?php echo date("Y"); ?> Dawn Driving Tuition. All Rights Reserved</p>
+                <p class="text-center">Copyright <?php echo date("Y"); ?> Jim Driving Tuition. All Rights Reserved</p>
             </div>
             <div class="col-12 col-md-6">
                 <div class="d-flex justify-content-center">

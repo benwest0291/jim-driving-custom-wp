@@ -3,7 +3,7 @@
   padding-top: 40px;
 
   &__logo{
-    width: 190px;
+    width: 150px;
   }
 
   &__infomation{
@@ -31,6 +31,11 @@
     color: $white;
     margin: 10px 5px;
     text-decoration: none !important;
+    font-size: 14px;
+
+    @include media-breakpoint-up(md) {
+      font-size: 12.5px;
+    }
   }
 
   &__hr{
