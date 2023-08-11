@@ -148,7 +148,7 @@ jQuery(function ($) {
     position: latLng,
     map: map,
     title: 'Dawn Driving Tuition',
-    icon: 'http://dawn-driving.local/wp-content/uploads/2023/08/icon.svg'
+    icon: 'http://jim-driving-tuition.local/wp-content/uploads/2023/08/map-dot.svg'
 });
 
 

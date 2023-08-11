@@ -352,7 +352,7 @@ hr {
 }
 .superstar__card__test__centre {
   top: 10px;
-  right: 10px;
+  left: 10px;
   color: #ffffff;
   z-index: 200;
   padding: 7px 8px;
@@ -502,7 +502,7 @@ hr {
   color: #ffffff;
   margin: 12px 5px;
   text-decoration: none !important;
-  font-size: 10.5px;
+  font-size: 9.5px;
 }
 @media (min-width: 768px) {
   .header__contact {
@@ -512,7 +512,12 @@ hr {
 }
 .header__logo {
   margin-top: 10px;
-  width: 130px;
+  width: 100px;
+}
+@media (min-width: 768px) {
+  .header__logo {
+    width: 130px;
+  }
 }
 .header__links__container {
   position: fixed;

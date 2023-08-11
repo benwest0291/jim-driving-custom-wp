@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce0faad7-43c0-4abd-83cf-b6c0b9f10fd6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/custom/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/custom/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/custom/blocks/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/blocks/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/custom/blocks/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/blocks/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/custom/components/_superstar-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/components/_superstar-card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/vendor/_variable-override.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/vendor/_variable-override.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/customizer.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/customizer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DrupalConfiguration">
+    <drupalPath />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/assets/js/custom/custom.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets/scss/custom/_global.scss" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets/scss/custom/blocks/_masthead.scss" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets/scss/custom/blocks/_navigation.scss" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets/scss/custom/components/_header.scss" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets/scss/custom/components/buttons.scss" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.2.4/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../.." />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2QZh2TORlGahQuF32AoFLGlDasJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/benwest/Local Sites/jim-driving-tuition/app/public/wp-content/themes/jim-driving-tuition",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets/scss/custom" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/inc" />
+      <recent name="$PROJECT_DIR$/assets/scss/custom/blocks" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce0faad7-43c0-4abd-83cf-b6c0b9f10fd6" name="Changes" comment="" />
+      <created>1685566807054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685566807054</updated>
+      <workItem from="1685566808286" duration="243000" />
+      <workItem from="1685567107288" duration="148000" />
+      <workItem from="1685567260607" duration="1528000" />
+      <workItem from="1685568954894" duration="257000" />
+      <workItem from="1685569234311" duration="10000" />
+      <workItem from="1685569289181" duration="11000" />
+      <workItem from="1685571117229" duration="80000" />
+      <workItem from="1685571209630" duration="818000" />
+      <workItem from="1685572581882" duration="764000" />
+      <workItem from="1685573763000" duration="221000" />
+      <workItem from="1685627016161" duration="184000" />
+      <workItem from="1685627208184" duration="638000" />
+      <workItem from="1685634841384" duration="2070000" />
+      <workItem from="1685636941802" duration="6815000" />
+      <workItem from="1685651564592" duration="12000" />
+      <workItem from="1685700990006" duration="19384000" />
+      <workItem from="1685722442480" duration="17000" />
+      <workItem from="1685792716505" duration="6962000" />
+      <workItem from="1685820010294" duration="659000" />
+      <workItem from="1685878481667" duration="1421000" />
+      <workItem from="1685879908449" duration="3042000" />
+      <workItem from="1685883006294" duration="93000" />
+      <workItem from="1686394596179" duration="19649000" />
+      <workItem from="1686415348392" duration="1310000" />
+      <workItem from="1686483151917" duration="5645000" />
+      <workItem from="1686492669907" duration="3174000" />
+      <workItem from="1686930043526" duration="11014000" />
+      <workItem from="1686998152102" duration="21186000" />
+      <workItem from="1687023032329" duration="2060000" />
+      <workItem from="1687084815454" duration="16066000" />
+      <workItem from="1687610691422" duration="4013000" />
+      <workItem from="1688047683191" duration="99000" />
+      <workItem from="1688047788495" duration="598000" />
+      <workItem from="1688064020883" duration="1000" />
+      <workItem from="1689322971396" duration="58000" />
+      <workItem from="1689323075947" duration="617000" />
+      <workItem from="1689610751308" duration="648000" />
+      <workItem from="1690993517182" duration="5422000" />
+      <workItem from="1691167081040" duration="339000" />
+      <workItem from="1691167426415" duration="1956000" />
+      <workItem from="1691232454490" duration="948000" />
+      <workItem from="1691233414395" duration="2794000" />
+      <workItem from="1691237008656" duration="16144000" />
+      <workItem from="1691253332946" duration="1170000" />
+      <workItem from="1691319924303" duration="19298000" />
+      <workItem from="1691406377999" duration="1350000" />
+      <workItem from="1691424180291" duration="9369000" />
+      <workItem from="1691434240892" duration="455000" />
+      <workItem from="1691508727456" duration="12110000" />
+      <workItem from="1691598192272" duration="9301000" />
+      <workItem from="1691672258520" duration="10080000" />
+      <workItem from="1691689908446" duration="46000" />
+      <workItem from="1691690036011" duration="1000" />
+      <workItem from="1691775277758" duration="4361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$</wordpressPath>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
