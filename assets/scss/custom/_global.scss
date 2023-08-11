@@ -1,0 +1,123 @@
+// Body
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Open+Sans&family=Poppins:wght@200;300;400;500;600;700;800;900&family=Raleway:wght@100;200;300;400;500;600;700;800&family=Sofia&display=swap');
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  font-weight: $font-weight-normal;
+  text-decoration: none;
+  transition: ease-in .5s;
+  text-decoration: none;
+  color: $white;
+
+  &:hover, &:focus{
+    color: $red;
+    text-decoration: none;
+  }
+}
+
+p{
+  color: $black-500;
+  line-height: $line-height-base;
+  font-size: $font-size-base;
+}
+
+h1,h2,h3,h4,h5,h6,{
+  font-family: 'Poppins', sans-serif;
+  color: $black-500;
+}
+
+ul{
+  color: #CBD5E1;
+  li{
+    line-height: $line-height-base;
+  }
+}
+
+.projects li::before {
+  content: "\2022";
+  color: $red;
+  font-weight: $font-weight-bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+span{
+  color: $red;
+}
+
+.social__icon{
+  color: $white;
+  font-size: 35px;
+  transition: ease-in-out .5s;
+
+  &:hover, &focus{
+    color: $red;
+  }
+}
+
+
+// Text Block
+.text-block {
+  p:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+// Typography
+.text-xs {
+  font-size: 0.875rem; // 14px
+  line-height: 1.428571428571429; // 20/14
+}
+
+.text-sm {
+  font-size: 1rem;
+  line-height: 1.375; // 22/16
+}
+
+.fw-medium {
+  font-weight: $font-weight-medium !important;
+}
+
+// Colors
+.text-white {
+  color: $white !important;
+}
+
+.text-inherit {
+  color: inherit !important;
+}
+
+.color-black{
+  color: $black !important;
+}
+
+// Animate Cards
+.to-animate {
+  opacity: 0;
+  transform: scale(.6);
+  transition: transform .4s ease, opacity .3s ease;
+
+  &.in {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+// White Block BGs
+.block-white-bg {
+  background-color: $white;
+
+  & + & {
+    padding-top: 0 !important;
+  }
+}
+
+//$black: #010100;

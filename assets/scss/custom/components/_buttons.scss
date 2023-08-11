@@ -1,0 +1,75 @@
+.btn__primary{
+  background-color: $red;
+  border-radius: $border-radius;
+  border: solid 1px $red;
+  color: $white !important;
+  font-weight: $font-weight-base;
+  font-size: $font-size-base;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+  text-align: center;
+  padding: 8px 30px;
+  text-decoration: none;
+  width: 250px;
+
+  &:hover,&:focus{
+    background-color: $white;
+    border: solid 1px $white;
+    color: $black !important;
+  }
+}
+
+.btn__secondary{
+  background-color: $black;
+  border-radius: $border-radius;
+  border: solid 1px $black;
+  color: $white !important;
+  font-weight: $font-weight-base;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.5s ease-in-out;
+  text-align: center;
+  padding: 8px 25px;
+  text-decoration: none;
+
+  &:hover,&:focus{
+    background-color: $red;
+    border: solid 1px $red;
+  }
+}
+
+.btn__facebook{
+  background-color: #3B5998;
+  color: $white;
+  padding: 8px 20px;
+  border-radius: $border-radius;
+  cursor: pointer;
+
+  &:hover, &:focus{
+    color: $white;
+  }
+}
+
+.btn__instagram{
+  background-color: #C13584;
+  color: $white;
+  padding: 8px 20px;
+  border-radius: $border-radius;
+  cursor: pointer;
+
+  &:hover, &:focus{
+    color: $white;
+  }
+}
+
+.btn__twitter{
+  background-color: $black;
+  color: $white;
+  padding: 8px 20px;
+  border-radius: $border-radius;
+  cursor: pointer;
+
+  &:hover, &:focus{
+    color: $white;
+  }
+}

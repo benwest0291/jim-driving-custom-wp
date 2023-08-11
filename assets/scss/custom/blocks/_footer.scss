@@ -1,0 +1,58 @@
+.footer{
+  background: $black;
+  padding-top: 40px;
+
+  &__logo{
+    width: 190px;
+  }
+
+  &__infomation{
+    color: $white;
+  }
+
+  &__heading{
+    padding-top: 40px;
+    color: $white;
+    font-weight: $font-weight-normal;
+  }
+
+  &__link{
+    color: $white;
+    text-decoration: none !important;
+  }
+
+  &__icons{
+    color: $white;
+    margin: 12px 5px;
+    font-size: $font-size-base;
+  }
+
+  &__contact{
+    color: $white;
+    margin: 10px 5px;
+    text-decoration: none !important;
+  }
+
+  &__hr{
+    background: $gray;
+    margin-bottom: 20px;
+  }
+
+  &__base p{
+    color: $white;
+  }
+
+  &__social{
+    background-color: $gray;
+    padding: 9px;
+    border-radius: 50%;
+    font-size: 22px;
+    color: $black;
+    transition: .5s ease-in;
+
+    &:hover, &:focus{
+      background-color: $red;
+      color: $white;
+    }
+  }
+}

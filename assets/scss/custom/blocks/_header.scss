@@ -1,0 +1,126 @@
+.header{
+  background: rgba(59, 61, 64, 0.65);
+  backdrop-filter: blur(5px);
+  padding-bottom: 20px;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+
+  &__top{
+    background: rgba(59, 61, 64, 0.90);
+    backdrop-filter: blur(5px);
+  }
+
+  &__icons{
+    color: $white;
+    margin: 12px 5px;
+    font-size: $font-size-base;
+    transition: 0.5s ease-in-out;
+
+    &:hover, &:focus{
+      color: $red;
+    }
+  }
+
+  &__contact{
+    color: $white;
+    margin: 12px 5px;
+    text-decoration: none !important;
+    font-size: 10.5px;
+
+    @include media-breakpoint-up(md) {
+      font-size: $font-size-sm;
+      margin: 10px 5px;
+    }
+  }
+
+  &__logo{
+    margin-top: 10px;
+    width: 130px;
+  }
+
+  &__links__container{
+    position: fixed;
+    padding-top: 30px;
+    right: -100%;
+    background: $black;
+    backdrop-filter: blur(0px);
+    margin-top: 90px;
+    height: 100vh;
+    transition: right .5s ease-in;
+
+    @include media-breakpoint-up(md) {
+      padding-top: 0;
+      height: 100%;
+      right: 0;
+      height: 0;
+      position: relative;
+      background: rgba(0, 0, 0, 0.40);
+      backdrop-filter: blur(5px);
+      margin-top: 20px;
+      transition: right 0s;
+    }
+  }
+
+  &__links{
+    text-align: center;
+
+    @include media-breakpoint-up(md) {
+      display: flex;
+      justify-content: end;
+    }
+
+    &__contact{
+      margin-top: 15px !important;
+    }
+  }
+
+  &__links a{
+    color: $white !important;
+    cursor: pointer;
+    font-size: 40px;
+    transition: 0.5s ease-in-out;
+
+    @include media-breakpoint-up(md) {
+      font-size: 16px;
+      margin-top: 50px;
+    }
+
+    &:hover, &focus{
+      color: $red !important;
+    }
+  }
+
+  &__link {
+    margin-top: 26px !important;
+    padding: 8px 10px;
+
+
+    @include media-breakpoint-up(md) {
+      &:last-child {
+        background-color: $red;
+        border-radius: $border-radius;
+        border-style: none;
+        color: $white !important;
+        cursor: pointer;
+        transition: 0.5s ease-in-out;
+        text-align: center;
+        min-width: 120px;
+
+        a {
+          color: $red;
+        }
+
+        &:hover, &:focus {
+          background-color: $black !important;
+          color: $white !important;
+        }
+      }
+    }
+  }
+}
+// JS style
+
+.js__links__open{
+  right: 0;
+}
