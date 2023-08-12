@@ -12,8 +12,8 @@ $test_centre_link = '';
             $test_centre_link = $sevenoaks_link;
         } else {
             $test_centre_link = $maidstone_link;
-        }
-
+        }?>
+        <?php
         if ($test_centre != null) { ?>
             <a href="<?php echo $test_centre_link; ?>" target="_blank"><h6 class="superstar__card__test__centre effect position-absolute"><?php echo $test_centre; ?></h6></a>
          <?php } ?>
