@@ -504,7 +504,12 @@ hr {
   text-decoration: none !important;
   font-size: 9.5px;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
+  .header__contact {
+    font-size: 9.5px;
+  }
+}
+@media (min-width: 1200px) {
   .header__contact {
     font-size: 0.875rem;
     margin: 10px 5px;
@@ -627,9 +632,9 @@ hr {
   text-decoration: none !important;
   font-size: 14px;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .footer__contact {
-    font-size: 12.5px;
+    font-size: 13px;
   }
 }
 .footer__hr {
@@ -976,7 +981,7 @@ a.page-numbers:hover {
 }
 @media (min-width: 768px) {
   .post__image {
-    height: 500px;
+    height: 560px;
   }
 }
 .post__avatar img {

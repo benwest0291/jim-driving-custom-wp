@@ -28,7 +28,11 @@
     text-decoration: none !important;
     font-size: 9.5px;
 
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(lg) {
+      font-size: 9.5px;
+    }
+
+    @include media-breakpoint-up(xl) {
       font-size: $font-size-sm;
       margin: 10px 5px;
     }

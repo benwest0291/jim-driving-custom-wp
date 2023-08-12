@@ -9,6 +9,8 @@
       <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/custom/blocks/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/blocks/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/custom/blocks/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/blocks/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/custom/templates/_single.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/templates/_single.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +158,8 @@
       <workItem from="1691689908446" duration="46000" />
       <workItem from="1691690036011" duration="1000" />
       <workItem from="1691775277758" duration="4566000" />
-      <workItem from="1691781170698" duration="1191000" />
+      <workItem from="1691781170698" duration="1526000" />
+      <workItem from="1691837158168" duration="1176000" />
     </task>
     <servers />
   </component>
