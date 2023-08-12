@@ -562,7 +562,7 @@ hr {
 .header__links a {
   color: #ffffff !important;
   cursor: pointer;
-  font-size: 40px;
+  font-size: 25px;
   transition: 0.5s ease-in-out;
 }
 @media (min-width: 768px) {
