@@ -11,7 +11,7 @@ render_banner('banner_superstars');?>
                 "posts_per_page" => 50,
                 "post_type" => "superstars",
                 "orderby" => "meta_value_num",
-                "order" => "ASC",
+                "order" => "DSC",
             ));
 
             while ($superstars->have_posts()) {
