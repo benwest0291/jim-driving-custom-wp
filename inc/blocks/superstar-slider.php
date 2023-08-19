@@ -29,7 +29,7 @@ $superstars_button_url = get_field('superstars_button_url', 'option');
             <div class="slider">
                 <?php
                 $superstars = new WP_Query(array(
-                    "posts_per_page" => 10,
+                    "posts_per_page" => 50,
                     "post_type" => "superstars",
                     "orderby" => "meta_value_num",
                     "order" => "ASC"

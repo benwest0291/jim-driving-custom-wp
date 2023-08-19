@@ -8,7 +8,7 @@ render_banner('banner_superstars');?>
         <div class="row">
             <?php
             $superstars = new WP_Query(array(
-                "posts_per_page" => 12,
+                "posts_per_page" => 50,
                 "post_type" => "superstars",
                 "orderby" => "meta_value_num",
                 "order" => "ASC",

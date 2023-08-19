@@ -6,16 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ce0faad7-43c0-4abd-83cf-b6c0b9f10fd6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/custom/components/_news-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/components/_news-card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/custom/components/_small-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/components/_small-card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/custom/components/_superstar-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/components/_superstar-card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/partials/news-card.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/partials/news-card.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/partials/small-card.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/partials/small-card.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/partials/superstar-card.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/partials/superstar-card.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/blocks/superstar-slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/blocks/superstar-slider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template-superstars.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-superstars.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +159,8 @@
       <workItem from="1691854597786" duration="468000" />
       <workItem from="1691858267333" duration="1017000" />
       <workItem from="1691924747636" duration="698000" />
-      <workItem from="1691925831738" duration="1148000" />
+      <workItem from="1691925831738" duration="1660000" />
+      <workItem from="1692440525772" duration="35000" />
     </task>
     <servers />
   </component>
