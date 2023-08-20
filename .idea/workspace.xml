@@ -7,7 +7,6 @@
     <list default="true" id="ce0faad7-43c0-4abd-83cf-b6c0b9f10fd6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/custom/components/_booking-form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/components/_booking-form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +161,7 @@
       <workItem from="1691925831738" duration="1660000" />
       <workItem from="1692440525772" duration="537000" />
       <workItem from="1692529942800" duration="951000" />
-      <workItem from="1692540327014" duration="1107000" />
+      <workItem from="1692540327014" duration="1394000" />
     </task>
     <servers />
   </component>
