@@ -91,10 +91,6 @@ span {
   color: #3B3D40 !important;
 }
 
-i {
-  z-index: 1 !important;
-}
-
 .navigation__burger {
   display: block;
   z-index: 200;
