@@ -103,7 +103,7 @@ $phone = get_theme_mod('contact_telephone');
         <hr class="footer__hr">
         <div class="row footer__base">
             <div class="col-12 col-md-6">
-                <p class="text-center">Copyright <?php echo date("Y"); ?> Jim Driving Tuition. All Rights Reserved</p>
+                <p class="text-center">Copyright 2007 - <?php echo date("Y"); ?> Jim Driving Tuition. All Rights Reserved</p>
             </div>
             <div class="col-12 col-md-6">
                 <div class="d-flex justify-content-center">
