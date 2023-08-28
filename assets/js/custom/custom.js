@@ -147,7 +147,7 @@ jQuery(function ($) {
     var marker = new google.maps.Marker({
     position: latLng,
     map: map,
-    title: 'Dawn Driving Tuition',
+    title: 'Jim Driving Tuition',
     icon: projectUrl.root_url + '/wp-content/uploads/2023/08/map-dot-1.svg'
 });
 
