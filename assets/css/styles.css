@@ -91,28 +91,11 @@ span {
   color: #3B3D40 !important;
 }
 
-.to-animate {
-  opacity: 0;
-  transform: scale(0.6);
-  transition: transform 0.4s ease, opacity 0.3s ease;
-}
-.to-animate.in {
-  opacity: 1;
-  transform: scale(1);
-}
-
-.block-white-bg {
-  background-color: #ffffff;
-}
-.block-white-bg + .block-white-bg {
-  padding-top: 0 !important;
-}
-
 .navigation__burger {
   display: block;
   z-index: 200;
   position: absolute;
-  top: 85px;
+  top: 75px;
   right: 30px;
   cursor: pointer;
 }
@@ -165,7 +148,7 @@ span {
   border: solid 1px #3B3D40;
   color: #ffffff !important;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 1rem;
   cursor: pointer;
   transition: 0.5s ease-in-out;
   text-align: center;
@@ -269,6 +252,7 @@ span {
   pointer-events: none;
   color: #3B3D40;
   margin: 0;
+  z-index: 200;
 }
 
 .input-container input,
@@ -318,6 +302,10 @@ hr {
   border-color: #d72232 !important;
   padding: 10px;
   border-radius: 5px;
+}
+
+.wpcf7-spinner {
+  display: none !important;
 }
 
 .superstar__card {
@@ -533,9 +521,15 @@ hr {
 }
 .header__icons {
   color: #ffffff;
-  margin: 12px 5px;
-  font-size: 1rem;
+  margin: 12px 2px;
+  font-size: 0.875rem;
   transition: 0.5s ease-in-out;
+}
+@media (min-width: 768px) {
+  .header__icons {
+    font-size: 1rem;
+    margin: 12px 5px;
+  }
 }
 .header__icons:hover, .header__icons:focus {
   color: #d72232;
@@ -544,7 +538,7 @@ hr {
   color: #ffffff;
   margin: 12px 5px;
   text-decoration: none !important;
-  font-size: 9.5px;
+  font-size: 9px;
 }
 @media (min-width: 992px) {
   .header__contact {
@@ -828,13 +822,13 @@ hr {
 
 .banner {
   background-size: cover;
-  background-position: center;
-  padding: 220px 0 80px 0;
+  background-position: top;
+  padding: 300px 0 80px 0;
   background-repeat: no-repeat;
 }
 @media (min-width: 768px) {
   .banner {
-    padding: 260px 0 80px 0;
+    padding: 260px 0 220px 0;
   }
 }
 .banner__heading {

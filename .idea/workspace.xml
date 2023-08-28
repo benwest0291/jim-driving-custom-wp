@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="ce0faad7-43c0-4abd-83cf-b6c0b9f10fd6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single-superstars.php" beforeDir="false" afterPath="$PROJECT_DIR$/single-superstars.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/custom/blocks/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/blocks/_banner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/custom/blocks/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/blocks/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/custom/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/components/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/custom/components/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom/components/_navigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template-about.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-about.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +170,9 @@
       <workItem from="1692540327014" duration="1771000" />
       <workItem from="1692785335598" duration="647000" />
       <workItem from="1693140826087" duration="99000" />
-      <workItem from="1693171186843" duration="50000" />
+      <workItem from="1693171186843" duration="85000" />
+      <workItem from="1693235697785" duration="95000" />
+      <workItem from="1693235799758" duration="489000" />
     </task>
     <servers />
   </component>
