@@ -25,7 +25,6 @@ function add_theme_scripts()
 
     wp_localize_script("custom", "projectUrl", array(
         "root_url" => get_site_url(),
-
     ));
 }
 
