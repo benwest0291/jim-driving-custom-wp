@@ -61,6 +61,7 @@
     margin-top: 90px;
     height: 100vh;
     transition: right .5s ease-in;
+    z-index: 200;
 
     @include media-breakpoint-up(md) {
       padding-top: 0;
