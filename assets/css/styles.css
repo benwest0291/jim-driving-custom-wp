@@ -95,7 +95,7 @@ span {
   display: block;
   z-index: 200;
   position: absolute;
-  top: 80px;
+  top: 90px;
   right: 30px;
   cursor: pointer;
 }
@@ -697,7 +697,8 @@ hr {
 .masthead {
   background-size: cover;
   background-position: center;
-  padding: 160px 0;
+  padding: 185px 0;
+  background-attachment: fixed;
 }
 @media (min-width: 768px) {
   .masthead {
@@ -712,7 +713,7 @@ hr {
 }
 .masthead__heading {
   color: #ffffff;
-  font-size: 40px;
+  font-size: 35px;
   font-weight: 600;
   line-height: 1.25;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
