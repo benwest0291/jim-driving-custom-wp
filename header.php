@@ -38,13 +38,13 @@ if (isset($menuLocations['header'])) {
                         <div class="d-flex mr-2">
                             <?php if ($phone != null) { ?>
                                 <i class="fa-solid fa-phone mr-1 header__icons"></i>
-                                <a title="Dawn driving phone number" href="tel:<?php echo $phone; ?>" class="header__contact"><?php echo $phone; ?></a>
+                                <a title="Jim driving phone number" href="tel:<?php echo $phone; ?>" class="header__contact"><?php echo $phone; ?></a>
                             <?php } ?>
                         </div>
                         <div class="d-flex">
                             <?php if ($email != null) { ?>
                                 <i class="fa-solid fa-envelope mr-1 header__icons"></i>
-                                <a title="Dawn driving phone number" href="mailto:<?php echo $email; ?>" class="header__contact"><?php echo $email; ?></a>
+                                <a title="Jim driving phone number" href="mailto:<?php echo $email; ?>" class="header__contact"><?php echo $email; ?></a>
                             <?php } ?>
                         </div>
                     </div>
